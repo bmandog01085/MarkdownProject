@@ -1,7 +1,7 @@
 # MarkdownProject
 
 ## Description
-This is my markdown project with a few topics about me. 
+My name is Brendan Graham and this is my markdown project with a few topics about me. 
 
 ## About Me
 
